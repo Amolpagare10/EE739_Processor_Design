@@ -3,9 +3,8 @@
 module datapath (
     input clk,
     input rst,
-	 
-	 output [15:0] register_data,  //User has access to read all the architectural RF
-	 input [2:0] register_address
+	input [2:0] register_address,
+	output [15:0] register_data  //User has access to read all the architectural RF
 );
 
     // Program Counter stage signals

@@ -8,6 +8,8 @@ This repository contains the Verilog implementation of a pipelined, out-of-order
 
 ```
 ├── datapath.v
+├── Report
+├── ISA.pdf
 ├── 1. Controller
 │ └── controller.v
 ├── 2. Execution Pipeline

@@ -78,3 +78,40 @@ The datapath is designed to:
 - `register_data [15:0]`: Value from ARF corresponding to the input address
 
 ---
+
+# In-Order Superscalar Processor 
+
+This repository contains the VHDL implementation of an In-Order Superscalar architecture featuring instruction fetch/decode, reservation station, scoreboard-based hazard handling, and multiple execution pipelines. The design is modular and supports instruction-level parallelism, making it ideal for exploring out-of-order execution techniques.
+
+---
+
+## 📁 Repository Structure
+```
+├── Adderl 6X3.vhdl
+├── alu handler.vhdl
+├── ALU.vhdl
+├── branch handler.vhdl
+├── Branch MUX.vhdl
+├── cpu.vhdl
+├── data_memory.vhdl
+├── datapath.vhdl
+├── Gates.vhdl
+├── ID_Stage.vhdl
+├── IF ID combined.vhdl
+├── IF_lD_reg.vhdl
+├── IF_stage.vhdl
+├── instr_memory.vhdl
+├── jump_handler.vhdl
+├── 1m sm handler.vhdl
+├── Isu handler.vhdl
+├── P3_reg.vhdl
+├── P4_reg.vhdl
+├── P5_reg.vhdl
+├── pipeline_controller.vhd
+├── Register_file.vhdl
+├── rs.vhdl
+├── scoreboard.vhdl
+├── temp_reg.vhdl
+└── testbench.vhdl
+```
+---

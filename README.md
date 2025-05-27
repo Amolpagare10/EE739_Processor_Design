@@ -48,7 +48,7 @@ This repository contains the Verilog implementation of a pipelined, out-of-order
 ├── 6. Reservation Station
 │ └── reservation_station.v
 ├── 7. Writeback Stage
-│ └── wb_stage.v
+  └── wb_stage.v
 ```
 
 

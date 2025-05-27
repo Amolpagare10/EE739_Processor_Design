@@ -1,4 +1,4 @@
-# Out-of-Order Superscalar Processor Datapath
+# Out-of-Order Superscalar Processor 
 
 This repository contains the Verilog implementation of a pipelined, out-of-order superscalar processor datapath. The design integrates a range of components including reservation stations, reorder buffer, unified register file, ALUs, load/store units, and more.
 

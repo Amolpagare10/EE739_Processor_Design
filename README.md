@@ -1,3 +1,13 @@
+# EE 739 : Processor Design
+
+This repository contains all the files pertaining to the assignments and project done by our group. 
+
+**Group Members**: 
+- [Amol Pagare](https://github.com/Amolpagare10)
+- [Aaditya Gupta](https://github.com/KillerAG99)
+- [Harsh Sanjay Roniyar](https://github.com/hsr-22)
+- [Praveen Prajapat](https://github.com/praveen-prajapat)
+  
 # Out-of-Order Superscalar Processor 
 
 This repository contains the Verilog implementation of a pipelined, out-of-order superscalar processor datapath. The design integrates a range of components including reservation stations, reorder buffer, unified register file, ALUs, load/store units, and more.

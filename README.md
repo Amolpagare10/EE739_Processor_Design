@@ -1,4 +1,4 @@
-# EE 739 : Processor Design
+# EE 739 Processor Design
 
 This repository contains all the files pertaining to the assignments and project done by our group. 
 
